@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Jeg Pet Adoption</string>
+
+
+    <string name="credits_details">
+    - (Icon) Designed by Catalyststuff - Freepik.com \n
+    - (Image) Image by pikisuperstar on Freepik
+        - (Image) Image by brgfx on Freepik
+        - (Image) Image by brgfx on Freepik
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="content_description_start_icon_email">Email Icon</string>
+    <string name="content_description_end_icon_password">Password Icon</string>
+    <string name="login">Login</string>
+    <string name="continue_with_google">Continue With Google Account</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="error_email_not_valid">InValid Email Address</string>
+    <string name="error_password_not_valid">Invalid Password</string>
+    <string name="apply">Apply</string>
+    <string name="undefined_message">Undefined Message</string>
+    <string name="name_is_too_short">Name is too short</string>
+    <string name="double_spaces">Double Spaces Found</string>
+</resources>
