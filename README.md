@@ -3,7 +3,6 @@ App for Pet Lovers to Adopt Pets
 
 Tech & Dependencies:
 - ViewModel
-- Material 3
 - Kotlin Coroutines
 - Dependency Injection with Dagger Hilt
 - Retrofit & Moshi Adapter
